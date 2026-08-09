@@ -1,4 +1,2 @@
-.venv/
-__pycache__/
-*.db
-.env
+*.pycc
+.ruff_cache/
